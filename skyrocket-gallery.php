@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Skyrocket Gallery
  * Description: Displays WordPress media galleries dynamically using FileBird folders.
- * Version: 1.4.0
+ * Version: 1.0.0
  * Author: Skyrocket Digital Development
  */
 
